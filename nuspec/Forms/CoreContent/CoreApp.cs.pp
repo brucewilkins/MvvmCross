@@ -11,7 +11,7 @@ namespace $rootnamespace$.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<ViewModels.MvxFormsViewModel>();
+            RegisterAppStart<ViewModels.MainViewModel>();
         }
     }
 }

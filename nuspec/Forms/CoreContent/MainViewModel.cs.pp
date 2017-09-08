@@ -3,11 +3,11 @@ using MvvmCross.Core.ViewModels;
 
 namespace $rootnamespace$.Core.ViewModels
 {
-    public class MvxFormsViewModel : MvxViewModel
+    public class MainViewModel : MvxViewModel
     {
         private string _text;
 
-        public MvxFormsViewModel()
+        public MainViewModel()
         {
         }
 
